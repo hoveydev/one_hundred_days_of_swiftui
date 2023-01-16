@@ -16,6 +16,7 @@
 		330862AC29760539000779A7 /* _00_Days_of_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330862AB29760539000779A7 /* _00_Days_of_SwiftUITests.swift */; };
 		330862B629760539000779A7 /* _00_Days_of_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330862B529760539000779A7 /* _00_Days_of_SwiftUIUITests.swift */; };
 		330862B829760539000779A7 /* _00_Days_of_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330862B729760539000779A7 /* _00_Days_of_SwiftUIUITestsLaunchTests.swift */; };
+		330862C62976063F000779A7 /* Intro-Why-Swift in Resources */ = {isa = PBXBuildFile; fileRef = 330862C52976063F000779A7 /* Intro-Why-Swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		330862B129760539000779A7 /* 100 Days of SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "100 Days of SwiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		330862B529760539000779A7 /* _00_Days_of_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00_Days_of_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		330862B729760539000779A7 /* _00_Days_of_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00_Days_of_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		330862C52976063F000779A7 /* Intro-Why-Swift */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Intro-Why-Swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		3308628829760537000779A7 = {
 			isa = PBXGroup;
 			children = (
+				330862C729760663000779A7 /* Days */,
 				3308629329760538000779A7 /* 100 Days of SwiftUI */,
 				330862AA29760539000779A7 /* 100 Days of SwiftUITests */,
 				330862B429760539000779A7 /* 100 Days of SwiftUIUITests */,
@@ -133,6 +136,22 @@
 				330862B729760539000779A7 /* _00_Days_of_SwiftUIUITestsLaunchTests.swift */,
 			);
 			path = "100 Days of SwiftUIUITests";
+			sourceTree = "<group>";
+		};
+		330862C429760565000779A7 /* 1-variables-constants-strings-and-numbers */ = {
+			isa = PBXGroup;
+			children = (
+				330862C52976063F000779A7 /* Intro-Why-Swift */,
+			);
+			path = "1-variables-constants-strings-and-numbers";
+			sourceTree = "<group>";
+		};
+		330862C729760663000779A7 /* Days */ = {
+			isa = PBXGroup;
+			children = (
+				330862C429760565000779A7 /* 1-variables-constants-strings-and-numbers */,
+			);
+			path = Days;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,6 +260,7 @@
 			files = (
 				3308629C29760539000779A7 /* Preview Assets.xcassets in Resources */,
 				3308629929760539000779A7 /* Assets.xcassets in Resources */,
+				330862C62976063F000779A7 /* Intro-Why-Swift in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
