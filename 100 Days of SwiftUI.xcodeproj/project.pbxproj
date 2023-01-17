@@ -56,6 +56,7 @@
 		330862C829761062000779A7 /* Intro-About-This-Course */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Intro-About-This-Course"; sourceTree = "<group>"; };
 		330862CA2976116A000779A7 /* Intro-How-To-Follow-Along */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Intro-How-To-Follow-Along"; sourceTree = "<group>"; };
 		330862CC2976136A000779A7 /* How-To-Create-Variables-And-Constants.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Create-Variables-And-Constants.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330862CD29761B36000779A7 /* How-To-Create-Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Create-Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +151,7 @@
 				330862C829761062000779A7 /* Intro-About-This-Course */,
 				330862CA2976116A000779A7 /* Intro-How-To-Follow-Along */,
 				330862CC2976136A000779A7 /* How-To-Create-Variables-And-Constants.playground */,
+				330862CD29761B36000779A7 /* How-To-Create-Strings.playground */,
 			);
 			path = "1-variables-constants-strings-and-numbers";
 			sourceTree = "<group>";
