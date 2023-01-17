@@ -17,6 +17,8 @@
 		330862B629760539000779A7 /* _00_Days_of_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330862B529760539000779A7 /* _00_Days_of_SwiftUIUITests.swift */; };
 		330862B829760539000779A7 /* _00_Days_of_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 330862B729760539000779A7 /* _00_Days_of_SwiftUIUITestsLaunchTests.swift */; };
 		330862C62976063F000779A7 /* Intro-Why-Swift in Resources */ = {isa = PBXBuildFile; fileRef = 330862C52976063F000779A7 /* Intro-Why-Swift */; };
+		330862C929761062000779A7 /* Intro-About-This-Course in Resources */ = {isa = PBXBuildFile; fileRef = 330862C829761062000779A7 /* Intro-About-This-Course */; };
+		330862CB2976116A000779A7 /* Intro-How-To-Follow-Along in Resources */ = {isa = PBXBuildFile; fileRef = 330862CA2976116A000779A7 /* Intro-How-To-Follow-Along */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,12 @@
 		330862B529760539000779A7 /* _00_Days_of_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00_Days_of_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		330862B729760539000779A7 /* _00_Days_of_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00_Days_of_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		330862C52976063F000779A7 /* Intro-Why-Swift */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Intro-Why-Swift"; sourceTree = "<group>"; };
+		330862C829761062000779A7 /* Intro-About-This-Course */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Intro-About-This-Course"; sourceTree = "<group>"; };
+		330862CA2976116A000779A7 /* Intro-How-To-Follow-Along */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Intro-How-To-Follow-Along"; sourceTree = "<group>"; };
+		330862CC2976136A000779A7 /* How-To-Create-Variables-And-Constants.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Create-Variables-And-Constants.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330862CD29761B36000779A7 /* How-To-Create-Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Create-Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330862CE29761D91000779A7 /* How-To-Store-Whole-Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Store-Whole-Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330862CF29761FC0000779A7 /* How-To-Store-Decimal-Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Store-Decimal-Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +150,12 @@
 			isa = PBXGroup;
 			children = (
 				330862C52976063F000779A7 /* Intro-Why-Swift */,
+				330862C829761062000779A7 /* Intro-About-This-Course */,
+				330862CA2976116A000779A7 /* Intro-How-To-Follow-Along */,
+				330862CC2976136A000779A7 /* How-To-Create-Variables-And-Constants.playground */,
+				330862CD29761B36000779A7 /* How-To-Create-Strings.playground */,
+				330862CE29761D91000779A7 /* How-To-Store-Whole-Numbers.playground */,
+				330862CF29761FC0000779A7 /* How-To-Store-Decimal-Numbers.playground */,
 			);
 			path = "1-variables-constants-strings-and-numbers";
 			sourceTree = "<group>";
@@ -260,6 +274,8 @@
 			files = (
 				3308629C29760539000779A7 /* Preview Assets.xcassets in Resources */,
 				3308629929760539000779A7 /* Assets.xcassets in Resources */,
+				330862C929761062000779A7 /* Intro-About-This-Course in Resources */,
+				330862CB2976116A000779A7 /* Intro-How-To-Follow-Along in Resources */,
 				330862C62976063F000779A7 /* Intro-Why-Swift in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
