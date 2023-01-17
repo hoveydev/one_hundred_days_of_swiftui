@@ -59,6 +59,7 @@
 		330862CD29761B36000779A7 /* How-To-Create-Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Create-Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		330862CE29761D91000779A7 /* How-To-Store-Whole-Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Store-Whole-Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		330862CF29761FC0000779A7 /* How-To-Store-Decimal-Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Store-Decimal-Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330862D129770A54000779A7 /* How-To-Store-Truth-With-Booleans.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Store-Truth-With-Booleans.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +173,7 @@
 		330862D029762403000779A7 /* 2-booleans-string-interpolation-and-checkpoint-one */ = {
 			isa = PBXGroup;
 			children = (
+				330862D129770A54000779A7 /* How-To-Store-Truth-With-Booleans.playground */,
 			);
 			path = "2-booleans-string-interpolation-and-checkpoint-one";
 			sourceTree = "<group>";
