@@ -61,6 +61,7 @@
 		330862CF29761FC0000779A7 /* How-To-Store-Decimal-Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Store-Decimal-Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		330862D129770A54000779A7 /* How-To-Store-Truth-With-Booleans.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Store-Truth-With-Booleans.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		330862D229773B38000779A7 /* How-To-Join-Strings-Together.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "How-To-Join-Strings-Together.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		330862D329783E18000779A7 /* CHECKPOINT-1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "CHECKPOINT-1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +177,7 @@
 			children = (
 				330862D129770A54000779A7 /* How-To-Store-Truth-With-Booleans.playground */,
 				330862D229773B38000779A7 /* How-To-Join-Strings-Together.playground */,
+				330862D329783E18000779A7 /* CHECKPOINT-1.playground */,
 			);
 			path = "2-booleans-string-interpolation-and-checkpoint-one";
 			sourceTree = "<group>";

@@ -9,6 +9,27 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>CHECKPOINT-1 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>CHECKPOINT-1 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>CHECKPOINT-1 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
 		<key>How-To-Create-Strings (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
